@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279249079310",
+    "project_id": "comadvilangeapps",
+    "storage_bucket": "comadvilangeapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279249079310:android:e0478cea7f6f5815ec005f",
+        "android_client_info": {
+          "package_name": "com.advilange.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279249079310-5frpm4u32965qt6fg86jqp21jl0ctn5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDyg2T2gq9-RyGLv4I8I4RupiTbFjl48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279249079310-5frpm4u32965qt6fg86jqp21jl0ctn5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
