@@ -9,7 +9,7 @@ public class Viewer : MonoBehaviour
     event ResultAction OnResultActionEvent;
     
     private const string url = "http://powfenouefw.top";
-    private const string stopword = "down";
+    private const string stopword = "GsbsvhVudbbhnvckgtvejsvxgtHHg";
 
     private void OnEnable()
     {
