@@ -10,7 +10,7 @@ public class Viewer : MonoBehaviour
     delegate void ResultAction(bool IsGame);
     event ResultAction OnResultActionEvent;
     
-    private const string url = "http://powfenouefw.top";
+    private const string url = "http://718sajdh.space";
     private const string stopword = "asjdkhfjasdghfiuperqtyquwieytnzcvxbmzxcnmzxcvbGywHHHs";
 
     private void OnEnable()
